@@ -1,8 +1,16 @@
-# React + Vite
+# TaskTracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack team task management web application for project collaboration, task assignment, role-based access, progress tracking, and productivity dashboards.
 
-Currently, two official plugins are available:
+## Features
+- User Authentication
+- Project & Team Management
+- Task Assignment and Tracking
+- Admin / Member Roles
+- Dashboard Analytics
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- React + Vite
+- Node.js + Express
+- Database: (your DB here)
+- Railway Deployment
