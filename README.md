@@ -5,11 +5,15 @@ A full-stack team task management web application for project collaboration, tas
 ## 🚀 Live Demo
 🔗 https://ethara-task-manager-lake.vercel.app
 
-email: samplemember@ethara.ai
-password: samplemember
+Whenever you sign up, please use the following format:
 
-email: sampleadmin@ethara.ai
-password: sampleadmin
+Email: sampleuser@ethara.ai 
+Password: sampleuser
+
+This means the password will always be the same as the text before **@ethara.ai** in the email address.
+
+eg. email: sampleadmin@ethara.ai
+    password: sampleadmin
 
 
 ## 🎥 Demo Video
