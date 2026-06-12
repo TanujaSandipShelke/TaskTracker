@@ -5,6 +5,13 @@ A full-stack team task management web application for project collaboration, tas
 ## 🚀 Live Demo
 🔗 https://ethara-task-manager-lake.vercel.app
 
+email: samplemember@ethara.ai
+password: samplemember
+
+email: sampleadmin@ethara.ai
+password: sampleadmin
+
+
 ## 🎥 Demo Video
 📹 https://drive.google.com/file/d/1FYCr_7U00yYQwplu8ukBiNfhgbcyuhvu/view?usp=sharing
 
